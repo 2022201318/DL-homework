@@ -1,0 +1,56 @@
+Paper-2080 Error:
+Invalid \escape: line 2 column 19 (char 20)
+Response:
+{
+    "keyword": ["$\ell_1$ regularized linear regression", "adversarial attacks", "support recovery"]
+}
+
+Paper-2096 Error:
+Invalid \escape: line 2 column 19 (char 20)
+Response:
+{
+    "keyword": ["$\sigma$-CVAE", "Variational Autoencoders", "Conditional Density Estimation"]
+}
+
+Paper-2543 Error:
+Invalid \escape: line 2 column 27 (char 28)
+Response:
+{
+    "keyword": ["maximum $\ell_1$-margin classifier", "sparse hard-margin SVM", "prediction error"]
+}
+
+Paper-5516 Error:
+Invalid \escape: line 2 column 27 (char 28)
+Response:
+{
+    "keyword": ["minimum $\ell_2$ norm interpolation", "overparameterization", "prediction risk"]
+}
+
+Paper-8658 Error:
+Invalid \escape: line 2 column 19 (char 20)
+Response:
+{
+    "keyword": ["$\Delta$-amortized inference", "sparse probabilistic graphical models", "generative flow networks"]
+}
+
+Paper-8829 Error:
+Invalid \escape: line 2 column 19 (char 20)
+Response:
+{
+    "keyword": ["$\pi$2vec", "policy representation", "efficient policy evaluation"]
+}
+
+Paper-9374 Error:
+Invalid \escape: line 2 column 19 (char 20)
+Response:
+{
+    "keyword": ["$\infty$-Diff", "Generative Diffusion Model", "Hilbert Space"]
+}
+
+Paper-10295 Error:
+Invalid \escape: line 2 column 26 (char 27)
+Response:
+{
+    "keyword": ["PixArt-$\alpha$", "T2I diffusion model", "low training cost"]
+}
+

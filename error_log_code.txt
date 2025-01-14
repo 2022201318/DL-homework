@@ -1,0 +1,6 @@
+Paper-3171 Error:
+Invalid \escape: line 2 column 19 (char 20)
+
+Paper-5836 Error:
+Invalid \uXXXX escape: line 2 column 20 (char 21)
+
